@@ -1,0 +1,6 @@
+version: '3'
+services:
+  full_node:
+    build: full_node
+    ports:
+      - "8444:8444"

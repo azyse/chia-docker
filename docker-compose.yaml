@@ -1,4 +1,4 @@
-version: '3'
+version: '3.7'
 services:
   full_node:
     build: full_node
